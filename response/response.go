@@ -1,4 +1,4 @@
-package gozeroresponse
+package response
 
 import (
 	"net/http"
