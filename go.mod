@@ -1,4 +1,4 @@
-module response
+module github.com/missish/go-zero-response
 
 go 1.20
 
